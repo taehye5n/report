@@ -1,5 +1,5 @@
 ## top
-top : 명령어는 시스템의 프로세스와 메모리 사용 상태를 실시간으로 보여줍니다.
+`top` 명령어는 시스템의 프로세스와 메모리 사용 상태를 실시간으로 보여줍니다.
 
 ![top 예시 이미지](<img width="92" alt="스크린샷 2024-05-29 150824" src="https://github.com/taehye5n/report/assets/171117901/1a9eabf3-619f-4fd5-b789-e461f6ac48c4">
 )
