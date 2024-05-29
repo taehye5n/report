@@ -1,7 +1,7 @@
 ## top
 `top` 명령어는 시스템의 프로세스와 메모리 사용 상태를 실시간으로 보여줍니다.
 
-![top 예시 이미지](https://github.com/taehye5n/report/issues/1#issue-2322473790)
+![top 예시](< img src="https://github.com/taehye5n/report/issues/1#issue-2322473790" width="1920" height="1080" >)
 
 ## ps
 `ps` 명령어는 현재 실행 중인 프로세스의 스냅샷을 보여줍니다.
